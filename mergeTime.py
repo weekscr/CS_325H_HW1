@@ -47,7 +47,7 @@ def mergeSort(data):
 
 N = [500,1000,1500,2000,2500,3000,3500,4000,4500,5000]
 avgTimes = []
-trials = 3
+trials = 30
 
 for i in range(len(N)):
     n = N[i]
